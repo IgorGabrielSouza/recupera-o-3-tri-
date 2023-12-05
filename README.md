@@ -20,7 +20,7 @@
  
 # Projeto de portfólio pessoal  
  
-![Capa do projeto](capa.png)
+![Capa do projeto](img.png)
  
 Project created to the recovery.
  
