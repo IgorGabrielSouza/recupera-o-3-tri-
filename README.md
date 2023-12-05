@@ -33,3 +33,4 @@ The functionalities are: The main objective is to convert leads, that is, to mak
 * [FontAwesome](https://fontawesome.com/) -
  
 ## Autores
+Igor Gabriel Liandro de Souza
